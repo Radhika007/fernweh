@@ -7,4 +7,3 @@ Agriculture plays an important role in the overall economic development of a nat
 2. Bluetooth Receiver
 3. Temperature and Humidity Sensor
 4. Soil Moisture Sensor
-5. Water pump
