@@ -7,3 +7,4 @@ Agriculture plays an important role in the overall economic development of a nat
 2. Bluetooth Receiver
 3. Temperature and Humidity Sensor
 4. Soil Moisture Sensor
+The basic steps for the set up of the project has been done. It uses Blynk application to operate and fianlly notify.
