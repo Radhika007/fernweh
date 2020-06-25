@@ -8,5 +8,6 @@ someone with fernweh would feel a deeper sense of longing, a sort of homesicknes
 Sit at home and take a look at the places you might want to travel whenever you feel the urge to do so. 
 
 # preview
-
+![Screenshot of the preview]
+(https://github.com/Radhika007/fernweh/Screenshot 2020-06-25 at 11.22.50 AM.png)
 
