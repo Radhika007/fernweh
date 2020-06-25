@@ -7,5 +7,6 @@ someone with fernweh would feel a deeper sense of longing, a sort of homesicknes
 # use
 Sit at home and take a look at the places you might want to travel whenever you feel the urge to do so. 
 
-# you only live once
+# preview
+
 
