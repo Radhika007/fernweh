@@ -9,5 +9,5 @@ Sit at home and take a look at the places you might want to travel whenever you 
 
 # preview
 ![Screenshot of the preview]
-(https://github.com/Radhika007/fernweh/Screenshot2020-06-25at11.22.50AM.png)
+(https://github.com/Radhika007/fernweh/blob/master/Screenshot%202020-06-25%20at%2011.22.50%20AM.png)
 
