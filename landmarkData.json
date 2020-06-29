@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Jeju Do",
+        "category": "Islands",
+        "id": 1002,
+        "place": "South Korea",
+        "info": "It is an island In South Korea!! Book your tickets now to enjoy the beaches.",
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": 126.5219,
+            "latitude": 33.5097
+        },
+        "imageName": "Jeju-Do"
+    },
+    {
+        "name": "Gyeongju Si",
+        "category": "Cities",
+        "id": 1003,
+        "place": "South Korea",
+        "info": "It is a city in South Korea known for its temples!! Book your tickets now to visit this historic place.",
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 129.2247,
+            "latitude": 35.8562
+        },
+        "imageName": "Gyeongju-si"
+    },
+    {
+        "name": "Incheon",
+        "category": "Port Cities",
+        "id": 1004,
+        "place": "South Korea",
+        "info": "This is a port city in South Korea!",
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 126.7052,
+            "latitude": 37.4563
+        },
+        "imageName": "Incheon"
+    },
+    {
+        "name": "Busan",
+        "category": "Port Cities",
+        "id": 1005,
+        "place": "South Korea",
+        "info": "Port City in South Korea",
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": 129.0756,
+            "latitude": 35.1796
+               },
+        "imageName": "Busan"
+    },
+    {
+        "name": "Seoul",
+        "category": "Cities",
+        "id": 1006,
+        "place": "South Korea",
+        "info": "The most famous city in South Korea.",
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": 126.9780,
+            "latitude": 37.5665
+               },
+        "imageName": "Seoul"
+        
+    }
+]
