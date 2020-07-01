@@ -5,7 +5,7 @@ While someone with wanderlust might sit at home and happily fantasise about all 
 someone with fernweh would feel a deeper sense of longing, a sort of homesickness but for foreign lands.
 
 # use
-Sit at home and take a look at the places you might want to travel, whenever you feel the urge to do so. 
+Sit at home and take a look at the places you might want to travel in South Korea, whenever you feel the urge to do so. 
 
 # preview
 ![Screenshot 2020-06-29 at 1 04 53 PM](https://user-images.githubusercontent.com/37405390/85986110-5adb1280-ba09-11ea-9fb8-a54cd845f384.png)
