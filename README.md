@@ -1,5 +1,6 @@
 # fernweh
 (n) an ache for distant places; the craving for travel.
+An iOS app that displays the various places to visit in South Korea along with their descriptions.
 
 While someone with wanderlust might sit at home and happily fantasise about all the places they might visit, 
 someone with fernweh would feel a deeper sense of longing, a sort of homesickness but for foreign lands.
